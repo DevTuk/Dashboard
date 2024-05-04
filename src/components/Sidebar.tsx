@@ -45,7 +45,7 @@ export const Sidebar = () => {
           </span>
           .
         </h1>
-        <p className="text-slate-500 text-sm">Curso de NextJS con AppRouter</p>
+        <p className="text-slate-500 text-sm">Curso NextJs con AppRouter</p>
       </div>
 
       <div id="profile" className="px-6 py-10">
