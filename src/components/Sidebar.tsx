@@ -4,7 +4,6 @@ import {
   IoCalculator,
   IoFootball,
   IoLogoJavascript,
-  IoLogoReact,
 } from "react-icons/io5";
 import { SidebarMenuItem } from "./SidebarMenuItem";
 
@@ -38,7 +37,6 @@ export const Sidebar = () => {
     >
       <div id="logo" className="my-4 px-6">
         <h1 className="flex items-center  text-lg md:text-2xl font-bold text-white">
-          <IoLogoReact className="mr-2" />
           <span> Next</span>
           <span className="text-blue-500">
             <IoLogoJavascript />
